@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Arduino libraries (managed separately)
+libraries/
+
+# Other sketches not part of this project
+CE6302_Labs/
+shake_all_axis/
+test_button_led/
+test_esp_setup/
